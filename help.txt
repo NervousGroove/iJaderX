@@ -1,0 +1,2 @@
+To have your software/product downloaded, change the "locatenh.bat" 
+file and replace "google.com" with your files download URL.
